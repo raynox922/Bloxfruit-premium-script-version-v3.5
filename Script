@@ -1,2 +1,11 @@
-loadstring(game:HttpGet("https://pastefy.app/u7NpQ1EJ/raw"))()
-loadstring(game:HttpGet("https://pastefy.app/VIbc1itB/raw"))()
+-- Bloxfruit Premium Script
+
+-- Script 1
+task.spawn(function()
+    loadstring(game:HttpGet("https://pastefy.app/u7NpQ1EJ/raw"))()
+end)
+
+-- Script 2
+task.spawn(function()
+    loadstring(game:HttpGet("https://pastefy.app/VIbc1itB/raw"))()
+end)
